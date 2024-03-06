@@ -46,7 +46,18 @@ hr {
   color: #E5E5E5;
 }
 
-.rectangle {
+#rectangle1 {
+  width: 211px;
+  height: 39px;
+  background-color: #273549;
+  border-radius: 8px;
+  color: #5DEF92;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#rectangle2 {
   width: 211px;
   height: 39px;
   background-color: #273549;
